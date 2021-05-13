@@ -2,7 +2,7 @@
 
 This repository contains all projects created for my DATA 4319 - Statistical and Machine Learning class during the Spring 2021 semester. DATA 4319 is a senior level data science course taught by Dr. Randy Davila at the University of Houston - Downtown. 
 ___
-Projects consist of supevised and unsupervised machine learning algorithms introduced during the course as well as additional topics.
+Projects consist of supervised and unsupervised machine learning algorithms introduced during the course as well as additional topics.
 
 Topics include:
 - Perceptron
